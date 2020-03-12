@@ -43,7 +43,7 @@ NOTE: This step will crawl the information on the website, sort them by time and
     <img src='/imgs/result1.png' width="250"/>
   </a>
 </p>
-Output of [^Step 1]
+Output of [^Step 1]: Step 2
 
 ## Step 2/2
 
@@ -64,7 +64,7 @@ You are able to swtich between 7 days and 30 days:
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/android?tab=newest&page=50&pagesize=50">
-    <img src='/imgs/Pasted Graphic 11.png' width="600"/>
+    <img src='/imgs/Pasted Graphic 11.png' width="800"/>
   </a>
 </p>
 
