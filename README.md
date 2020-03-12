@@ -22,14 +22,15 @@ Thanks to [Scrapy Docs](https://docs.scrapy.org/en/latest/) and [The Django Book
 
 ## Usage
 NOTE: These instructions assume that you have Scrapy and Django installed.
-go to the directory:
+
+Go to the directory before starting:
 
 ```sh
 $ cd ~/Stack_Overflow_crawler-master/Scrapy_module
 ```
 The easiest way to get started is using the init.py:
 
-##step 1/2
+## Step 1/2
 
 ```sh
 $ python init.py
@@ -47,7 +48,7 @@ Output of Step 1
 
 ## Step 2/2
 
-go the the directory:
+Then go the the directory:
 ```sh
 $ cd ~/Stack_Overflow_crawler-master/django_st
 ```
@@ -56,11 +57,11 @@ and start the server:
 ```sh
 $ python manage.py runserver 0.0.0.0:8000
 ```
-go to http://0.0.0.0:8000/
+Check the result at http://0.0.0.0:8000/
 
 ## Note
 
-You are able to swtich between 7 days and 30 days:
+* You are able to swtich between 7 days and 30 days:
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/android?tab=newest&page=50&pagesize=50">
