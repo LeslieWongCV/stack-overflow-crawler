@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/android?tab=newest&page=50&pagesize=50">
-    <img src='/imgs/Pasted Graphic 9.png' width="400"/>
+    <img src='/imgs/Pasted Graphic 9.png' width="600"/>
   </a>
 </p>
 
