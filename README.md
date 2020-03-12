@@ -46,6 +46,7 @@ NOTE: This step will download and sort the data on the website, sort them by tim
 </p>
 
 <center><font size=2>output of step 1</font></center>
+
 ## Step 2/2
 
 Then go the the directory:
@@ -79,5 +80,5 @@ If you do find this script useful, a link back to this repository would be appre
 
 ## Advance
 
-
+[updating]
 
