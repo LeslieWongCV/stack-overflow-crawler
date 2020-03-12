@@ -35,7 +35,8 @@ The easiest way to get started is using the init.py:
 ```sh
 $ python init.py
 ```
-NOTE: This step will download and sort the data on the website, sort them by time and number of comments, then build a python dictionary for input to Django backend.
+
+Two files will be generated at : '~/Stack_Overflow_crawler-master/Scrapy_module/' .
 
 
 
@@ -44,12 +45,13 @@ NOTE: This step will download and sort the data on the website, sort them by tim
     <img src='/imgs/result1.png' width="250"/>
   </a>
 </p>
+NOTE:
+This step will download and sort the data on the website, sort them by time and number of comments, then build a python dictionary for input to Django backend.
 
-<center><font size=2>output of step 1</font></center>
 
 ## Step 2/2
 
-Then go the the directory:
+Go the the directory:
 ```sh
 $ cd ~/Stack_Overflow_crawler-master/django_st
 ```
