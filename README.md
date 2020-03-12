@@ -23,6 +23,12 @@ Thanks to [Scrapy Docs](https://docs.scrapy.org/en/latest/) and [The Django Book
 ## Usage
 NOTE: These instructions assume that you have Scrapy and Django installed.
 
+## Path
+
+This file: '~/Stack_Overflow_crawler/django_st/django_st/views.py' -> change path at line 16 and line 26 to:
+ '~/Stack_Overflow_crawler-master/Scrapy_module/stack_overflow/dict_context.txt'
+ note: '~' is up to your storge, make sure it contains the 'dict_context.txt'
+
 Go to the directory before starting:
 
 ```sh

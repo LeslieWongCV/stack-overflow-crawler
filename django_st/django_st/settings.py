@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 
 import os
 
+temp_path = os.path.abspath(os.path.dirname(os.path.dirname(__file__))) + '/templates'
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -54,7 +55,7 @@ ROOT_URLCONF = 'django_st.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['/Users/leslie/django_st/templates/cpts_1973_dho/','/Users/leslie/django_st/templates'],
+        'DIRS': [temp_path],   # path to templates
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

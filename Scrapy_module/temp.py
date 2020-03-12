@@ -14,6 +14,6 @@ import json
  #                shell=True)
 
 
-
-os.popen('python /Users/leslie/django_st/manage.py runserver 192.168.0.100:8000')
+print(os.getcwd())
+#os.popen('python /Users/leslie/django_st/manage.py runserver 192.168.0.100:8000')
 

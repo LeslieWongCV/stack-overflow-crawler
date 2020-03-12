@@ -12,7 +12,9 @@ from django.shortcuts import render
 
 
 def Seven_days(request):
+
     f = open('/Users/leslie/python_coding/stackoverflow_wong/stack_overflow/dict_context.txt', 'r')
+    # change to '~/Stack_Overflow_crawler-master/Scrapy_module/stack_overflow/dict_context.txt '
     a = f.read()
     dict_context = eval(a)
     f.close()
@@ -22,6 +24,7 @@ def Seven_days(request):
 
 def Thirty_days(request):
     f = open('/Users/leslie/python_coding/stackoverflow_wong/stack_overflow/dict_context.txt', 'r')
+    # change to '~/Stack_Overflow_crawler-master/Scrapy_module/stack_overflow/dict_context.txt '
     a = f.read()
     dict_context = eval(a)
     f.close()

@@ -49,7 +49,10 @@ class DmozSpider(scrapy.Spider):
             time.sleep(1)
             #subprocess.Popen('python /Users/leslie/python_coding/stackoverflow_wong/stack_overflow/stack_overflow/rank.py',shell=True, cwd= '/Users/leslie/python_coding/stackoverflow_wong/stack_overflow')
             print('Path222=',os.getcwd())
-            os.popen('python /Users/leslie/python_coding/stackoverflow_wong/stack_overflow/stack_overflow/rank.py')
+            path = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
+            os.chdir(path)  # 修改当前工作目录
+            #os.popen('python path')
+            os.popen('python rank.py') # run the rank.py
             #time.sleep(1)
        #     print("Opening Server...")
       #      DmozSpider.Dm += 1

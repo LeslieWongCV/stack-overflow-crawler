@@ -6,18 +6,16 @@
 # @Blog    ：https://lesliewongcv.github.io/
 
 import json
-path = "/Users/leslie/python_coding/stackoverflow_wong/stack_overflow/stack_of.json"
-#path = "/Users/leslie/python_coding/stackoverflow_wong/stack_overflow/stack_of.json"
-#/Users/leslie/python_coding/stackoverflow_wong/stack_overflow/stack_.json
-#path路径要自己修改
-#question
+import os
+
+path = os.path.abspath(os.path.dirname(os.path.dirname(__file__))) + '/stack_of.json'
+#path = "~/stack_overflow/stack_of.json"  # NOTE: Change the path to where .json~/Stack_Overflow_crawler-master/Scrapy_module/
 
 """
 
 """
 class Question:
     """
-对应json问题文件的python类 每个对象存储json的每一个field
 """
     def __init__(self,title,url,vote):
         self.title=title
@@ -36,9 +34,9 @@ quesList=[]
 print('path==',path)
 with open(path) as f:
 
-    pop_data=json.load(f) #pop_data是读取json文件的初始数据
+    pop_data=json.load(f)
     for pop_dict in pop_data:
-        title=pop_dict['title'] #取出
+        title=pop_dict['title']
         url=pop_dict['url']
         vote=pop_dict['vote']
         ques=Question(title,url,vote)
@@ -49,13 +47,14 @@ dict_url = {}
 dict_title = {}
 dict_vote = {}
 quesList_7 = quesList[:2500]
-#quesList是所有问题对象数组
+
 for i in range(10):
     dict_url['u%d'%(i+1)] = quesList_7[i].url
     dict_title['t%d'%(i+1)] = quesList_7[i].title
 
 topList=[]
-#toplist是前十赞的数组 比较耗费空间存储当前数据 边读取边排序会导致list为空（我也不知道咋回事）
+#toplist is an array of the top ten likes, which consumes space to store the current data.
+#Sorting while reading will cause the list to be empty (I don’t know what is going on)
 quesList_7.sort(reverse=True)
 
 for ques in quesList:
@@ -94,7 +93,7 @@ f.write(str(dict_context))
 
 f.close()
 
-#打印前十个
+
 
 
 
