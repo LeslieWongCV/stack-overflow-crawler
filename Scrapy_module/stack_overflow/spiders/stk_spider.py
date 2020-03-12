@@ -36,7 +36,7 @@ class DmozSpider(scrapy.Spider):
             item['vote'] = vote
            # item['des'] = des  not for now
             yield item
-        for count in range (10):
+        for count in range (148):
             page = count +2
            # time.sleep(random.randint(0, 1))
             next_url = 'https://stackoverflow.com/questions/tagged/android?tab=newest&page='+str(page)+'&pagesize=50'

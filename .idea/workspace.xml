@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9fd1efb-41e8-44d5-b554-7742586e599d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scrapy_module/stack_overflow/rank.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy_module/stack_overflow/rank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scrapy_module/dict_context.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scrapy_module/stack_of.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scrapy_module/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy_module/temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_st/django_st/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_st/django_st/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_st/django_st/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_st/django_st/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,24 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rank.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/rank.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-117">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#168#179#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="405">
+              <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -48,6 +33,25 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_st/django_st/urls.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django_st/django_st/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="asgi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django_st/django_st/asgi.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django_st/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
@@ -64,11 +68,6 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="asgi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django_st/django_st/asgi.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_st/django_st/settings.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,16 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/settings.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="stk_spider.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="stk_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+            <state relative-caret-position="570">
+              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
               <folding>
                 <element signature="e#173#186#0" expanded="true" />
               </folding>
@@ -105,14 +99,14 @@
       <list>
         <option value="$PROJECT_DIR$/Scrapy_module/temp.py" />
         <option value="$PROJECT_DIR$/Scrapy_module/stack_overflow/rank.py" />
-        <option value="$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py" />
         <option value="$PROJECT_DIR$/django_st/django_st/settings.py" />
         <option value="$PROJECT_DIR$/django_st/django_st/views.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="841" />
@@ -122,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,12 +126,37 @@
             <path>
               <item name="Stack_Overflow_crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stack_Overflow_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="django_st" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stack_Overflow_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stack_Overflow_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="django_st" type="462c0819:PsiDirectoryNode" />
+              <item name="django_st" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stack_Overflow_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stack_Overflow_crawler" type="462c0819:PsiDirectoryNode" />
               <item name="Scrapy_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stack_Overflow_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stack_Overflow_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy_module" type="462c0819:PsiDirectoryNode" />
+              <item name="stack_overflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stack_Overflow_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stack_Overflow_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy_module" type="462c0819:PsiDirectoryNode" />
+              <item name="stack_overflow" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,45 +226,23 @@
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Scrapy_module/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapy_module/temp.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/items.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django_st/django_st/asgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/rank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#168#179#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="405">
+          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -255,6 +251,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django_st/django_st/urls.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/django_st/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/django_st/asgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/django_st/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="96" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/django_st/django_st/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -276,6 +285,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_module/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_module/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#168#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/django_st/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/django_st/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/django_st/django_st/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -285,8 +337,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        <state relative-caret-position="405">
+          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/django_st/temp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/django_st/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/django_st/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/django_st/asgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_st/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="e#173#186#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
