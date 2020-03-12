@@ -43,7 +43,7 @@ NOTE: This step will crawl the information on the website, sort them by time and
     <img src='/imgs/result1.png' width="250"/>
   </a>
 </p>
-Output of [^Step 1]: Step 2
+Output of Step 1
 
 ## Step 2/2
 
@@ -70,7 +70,13 @@ You are able to swtich between 7 days and 30 days:
 
 
 ## License
+
 MIT
+
 If you do find this script useful, a link back to this repository would be appreciated. Thanks!
 
+
 ## Advance
+
+
+
