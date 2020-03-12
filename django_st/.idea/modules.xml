@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/django_st.iml" filepath="$PROJECT_DIR$/.idea/django_st.iml" />
+      <module fileurl="file://$USER_HOME$/python_coding/stackoverflow_wong/stack_overflow/.idea/stack_overflow.iml" filepath="$USER_HOME$/python_coding/stackoverflow_wong/stack_overflow/.idea/stack_overflow.iml" />
+    </modules>
+  </component>
+</project>
