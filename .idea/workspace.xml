@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9fd1efb-41e8-44d5-b554-7742586e599d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scrapy_module/dict_context.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scrapy_module/stack_of.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scrapy_module/dict_context_gen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scrapy_module/stack_of_gen.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,7 +78,7 @@
       <file leaf-file-name="stk_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
+            <state relative-caret-position="566">
               <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
               <folding>
                 <element signature="e#173#186#0" expanded="true" />
@@ -213,7 +211,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="841" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="841" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
@@ -363,7 +361,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scrapy_module/stack_overflow/spiders/stk_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="566">
           <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
           <folding>
             <element signature="e#173#186#0" expanded="true" />
