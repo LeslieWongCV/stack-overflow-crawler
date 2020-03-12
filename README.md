@@ -35,7 +35,7 @@ The easiest way to get started is using the init.py:
 ```sh
 $ python init.py
 ```
-NOTE: This step will crawl the information on the website, sort them by time and number of comments, and then build a python dictionary for input to Django backend.
+NOTE: This step will download and sort the data on the website, sort them by time and number of comments, then build a python dictionary for input to Django backend.
 
 
 
@@ -44,8 +44,8 @@ NOTE: This step will crawl the information on the website, sort them by time and
     <img src='/imgs/result1.png' width="250"/>
   </a>
 </p>
-Output of Step 1
 
+<center><font size=2>output of step 1</font></center>
 ## Step 2/2
 
 Then go the the directory:
