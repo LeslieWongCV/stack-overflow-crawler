@@ -9,8 +9,10 @@ import os
 import subprocess
 import json
 import time
+
+
 # Step1/2 get the data from Stack OverFlow.
-subprocess.Popen('scrapy crawl stack_of -o stack_of.json',shell=True)
+subprocess.Popen('scrapy crawl stack_of -o stack_of.json',shell=True,cwd= '')
 #os.popen('python /Users/leslie/django_st/manage.py runserver 8001')
 
 time.sleep(14)
